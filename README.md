@@ -36,7 +36,7 @@ Technologies Used:
 Database
 - Mysql
 
-> Login Page
-> http://localhost/zakat/index.php
-> Admin username | password: admin | admin
-> Amileen username | password: amileen | amileen
+Login Page
+- http://localhost/zakat/index.php
+- Admin username | password: admin | admin
+- Amileen username | password: amileen | amileen
